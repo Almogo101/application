@@ -1,3 +1,3 @@
 node{
-	sh "echo hello ach yakar sheli"
+	sh "echo hello ach yakar sheli meod"
 }
